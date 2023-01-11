@@ -1,0 +1,56 @@
+[
+    {
+      
+      "travelid":1,
+      "city": "PARIS",
+      "numberofdays": 7,
+      "airlinecost": 11000,
+      "image": "https://www.travelandleisure.com/thmb/SPUPzO88ZXq6P4Sm4mC5Xuinoik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/eiffel-tower-paris-france-EIFFEL0217-6ccc3553e98946f18c893018d5b42bde.jpg",
+      "totalcost": 50000
+    },
+    {
+      
+      "travelid":2,
+      "city": "GUWAHATI",
+      "numberofdays": 5,
+      "airlinecost": 4000,
+      "image": "https://assets-news.housing.com/news/wp-content/uploads/2022/07/25000702/GUWAHATI-FEATURE-compressed.jpg",
+      "totalcost": 20000
+    },
+    {
+      
+      "travelid":3,
+      "city": "OOTY",
+      "numberofdays": 5,
+      "airlinecost": 4000,
+      "image": "https://res.cloudinary.com/simplotel/image/upload/x_0,y_0,w_1500,h_844,r_0,c_crop,q_80,fl_progressive/w_1500,c_fit,f_auto/la-montana-by-tgiooty/DJI_0014_hguwqi_dldiaw",
+      "totalcost": 22000
+    },
+    {
+      
+      "travelid":4,
+      "city": "JODHPUR",
+      "numberofdays": 3,
+      "airlinecost": 3000,
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-818010,resizemode-1,msid-77666387/news/politics-and-nation/swachh-survekshan-jodhpur-adjudged-fastest-mover-big-city.jpg",
+      "totalcost": 16000
+    },
+    {
+      
+      "travelid":5,
+      "city": "LONDON",
+      "numberofdays": 5,
+      "airlinecost": 8000,
+      "image": "https://thumbs.dreamstime.com/b/big-ben-london-autumn-leaves-32915756.jpg",
+      "totalcost": 27000
+    },
+    {
+      
+      "travelid":6,
+      "city": "SRILANKA",
+      "numberofdays": 6,
+      "airlinecost": 6000,
+      "image": "https://image.kesari.in/upload/MS/Golden-temple-Dambulla-kesari-tours.jpg",
+      "totalcost": 25000
+    }
+  ]
